@@ -1,2 +1,5 @@
 # API-para-postar-projetos
-Melhorando o readme
+Melhorando o readme.
+
+INICIAR HTML EXPLICANDO O QUE DEVE SER INSTALADO E AS FUNCIONALIDADES
+
