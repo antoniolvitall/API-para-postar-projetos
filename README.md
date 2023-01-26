@@ -1,4 +1,4 @@
-# API-para-postar-projetos
+# Galeria de fotos espaciais com DJANGO
 Criação de uma API com django para fotos espaciais.
 
 Para iniciar a API devemos utilizar os seguintes comandos:
